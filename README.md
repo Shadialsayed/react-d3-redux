@@ -15,16 +15,6 @@ hold and drag, and enjoy !
 + Checkbox: Check the corresponding line that you want to highlight.
 + Responsive: The app can run on different screen sizes.
 
-# Running the application:
-
-To run the application, copy the "build" folder to your local machine and run it 
-locally by opening http://localhost/build/
-
-
-#####Best regards,
-
-#####Shadi Al-Sayed
-
 
 
 
